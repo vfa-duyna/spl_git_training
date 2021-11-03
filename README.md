@@ -1,1 +1,1 @@
-# spl_git_training (main) commit 1 commit 2
+# spl_git_training (dev) commit 1 commit 2
